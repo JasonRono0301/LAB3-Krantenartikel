@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+}
+
+#container{
+    border-style: solid;
+    padding: 10px;
+}
+
+#img1{
+    border-style: solid;
+    border-radius: 2px;
+}
